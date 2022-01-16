@@ -4,7 +4,7 @@
 
 ### Make sure you have installed python
 
-### Download apropriate driver for your browser according to your version
+### Download appropriate driver for your browser according to your browser's version
 
 [For Chrome](https://chromedriver.chromium.org/downloads)
 [For Firefox](https://github.com/mozilla/geckodriver/releases)
@@ -20,5 +20,3 @@
 - Enjoy!
 
 ## Thank You
-
-- Author : Mihiretab Taye
